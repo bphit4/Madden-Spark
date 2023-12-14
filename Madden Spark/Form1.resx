@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="MinimizeButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAAAPZJREFUSEvFkrEKglAYhX2p0DdoauoF2iKc3Vp9CB/AVxAcHQwaWlqiqcmoW4Ko
+        qOBgv0NdorPVPf3wceT7wXO5XGsYhr8AJQMoGUDJAEoGUDKAkgGUDKBkACUDKBlAyQBKBlAygJIBlAyg
+        ZAAlAygZQMkASgavD8dxrCiKZkqpbVmWl7qulXD9AaqqKpVl2S6O44Xruu/FnudNJI1PEARzCV0sJ9qM
+        C9OT5/lJQhfLlZTjwvT0fV9J6GI5yX5cmB55P2cJXez7/nRcmJ4wDJcSuti2bStJklVRFIemaW5d193b
+        tv2a53/kRo9pmq4/XjUbKM0zWA9zTxkw14RDvQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="MaximizeButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAAAkNJREFUSEvFlrurGkEUxg+kTJM+Tf6MFCH5D6wkEaxESCXYJG1SBSxik1SxCOks
+        LrcRgzY+QPEZH6jgY32z1/cDX4gWmnMWx+ze3XvJzd65+eDjO8yy82NmZ2cGjsfjf7Fm40P4XJjNZnA4
+        HODz+d6PRqPMeDxuTyYTXaY+0PloNPrJ4/GA3W5Xgw0GA9RqtZ9Yc9FqtcpZLJZHWCrBLpfrLSZXeb3e
+        zxhK8GAwKGFy1Xa7HWAowfP5/AqTqzabzRRDCR4Oh01Mrlqv10MMFbiBqdJyufTjs6/T6fRW4yqW+/Jw
+        OJx6+CNcYOqpvgnc7XZfZLNZKBQKUCwWb3W5XIZUKgWJROKZbnC/339drVbpVwOWWm40GlKGw2HIZDIv
+        T68rdFfwGwI2m02pYy04QQVBgHg8DoFAAPL5/KvT6wr9E7jVamnCGRSnF3CHkkZ8r2CCXocTtF6vS9BI
+        JCKNmAtYDicgtdNiYlCuYHK73YZOpwPpdFoC0Yi5g+UjrlQq52/LFUxQMvvG1EY1ARmcG5hB5XDKWCzG
+        Z1UTlH4bBmW+Dg8Gg/cHJoAWVG4GD4VCgFusfjDu1c9zuZy0F5dKpRtNz2mxJZNJWnBPde/VeE5fiKL4
+        ES8Kf2WcoQ+Y3+8C5n4eI1h9Hs9mMxGTqzRvIHgNFTC5arfbTTCUYLfb/Q6Tq/DI/IahBBuNRuj1er+w
+        5qL9fi9ardbHWCrBJpMJnE4n7T5fFotFFe9aV+ieHmM/lAL+jj/8fv8Tm8125p2Lh/URfgO+Hd8ExfS2
+        owAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="CloseButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAABJpJREFUSEvFl2lIXFcUx29wWmz6obUhENSA+8644i7u+67YhiBBCBkRGovVKRUq
+        CooL4gfXglpFPxSkCFLysVaUtnEiQnXU4IKjTkWttriFoqD2/C9v5jmdeS+jhfYPzzu+c+/5zV3OuWfY
+        1dXV//LwPy4uLqylpSVVp9P9tL+/vzY9Pf1tfn7+Az8/P0Yty8rKYpmZmfzJyclhaWlpLD4+nuXm5vIn
+        OzubP7AVFBSwkJAQlpCQcHd8fPybg4ODteXlZU1XV9cjpVJpClapVBHUmug3EoEe+vv7s7y8PKvAgIaG
+        hsL2AcG0giujKisrC6kRwSsrK7/C8E/t7u7uJCYmfhQQEMABcmCsTFhYGIuMjLyzvr6+LLgwEfnbpkYE
+        n52dvYHBkvR6vQ7wwMBADrEENkAjIiLuLC4uvhKGmuni4gIcEbywsCDZGcIMyKkCe4flvA4uLCwEkAUH
+        B7O5ubmXwhCL2tnZ2aBGBCclJSlhkNPq6upCVFSUAnuIwwYwoPSOBQUFsdnZ2Umhq6TKysrSqBHBNjY2
+        rLq6+hMY5UQzmsaSYnaYdWxsLMMWTE5OjgldJNXc3PyZo6Mj5+Hhf7y9vZmHhwerra19jE5yIvjPOGwO
+        Dg4M7dTU1PeCSVJtbW3PnZycWExMjCnYx8eHn0wvLy/W0NDwDJ3lNDEx8cLZ2fn+2NjY18IrSfX09Hzl
+        6enJUlJS+PbQKxGMGRtOKJJJa2vrcwyS0/Hx8ZHwUVK9vb219AX5tmBicXFx5mCECcIiPT2dz7y9vf1z
+        DL6thoeHW+CHDq4xAUmC0QGzBtzV1ZX19fXVwclNNTIy0unu7s4o/rk/+H4rGEuCFnuC9/39/TVwZq1G
+        R0d7sKfYT/hE6FkNxmd8U+wNZk4JXn15eQm/shoaGmp1c3PDBcHHA3orMAYh9urr60usAXd2dn6JMMMX
+        ho8bgwHNyMjgYUYx+CmcWquBgYF6HKrk5GQj3CowWsCxxE1NTSo4u6m6u7urMT41NZX7eyvYcOkji9XV
+        1T2Bk9uqo6PjC/jBsmMFJcEwAowwoLxdhMH/Vo2NjSokJMNem4GxlwAjDKqqqgowSE50E72kssiFUud3
+        witJEbwMJx1nxixl+vr6cnh5eXkyOsuJ7ual6Ojo9+3s7Pg9PD8//4tgklRNTc0j7DluM/pXBCsUClZa
+        WhqLTnLa2trS0eD3ULQhu1GZwysPrVarEbpISq1Wf2xvb28KDg8Pd6XyB3ZJbW9vb1E2u4+7GPtlKAQA
+        pmLgHSruLNZt11VcXBxJjQjWaDQ/wiClP0gUl/cwU0ulD0oiWv53Nzc314UhFkXl82tqRPD5+fkpDJb0
+        J4lCzRlQQ0xeBxuiAXC6FD4k+Jow1EyU/UyLvY2NDYvl6Onp6RuakYfh1CMWLYGRcABHGUS2e/Sj4HfB
+        hYkODw/xXgRXVFSkwHBdJycnfxUVFfngxBugcmA82AacAQodB6qhdwVXRlFSekqNCEbSoGrh6d7enpYq
+        C/3S0tIPJSUlSiQWpFEcJmvAsAEu/Pp4ODMz8+Lo6EhPK/B6cHBQbWtry3lG8H//XLG/AdrwFMAdd7Ya
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="InstructionsLabel.Text" xml:space="preserve">
+    <value>INSTRUCTIONS:
+1 - Select Activate Mods.
+2 - Launch Madden 24 either from MMC/Frosty or EA/Origin. Wait for the game to open.
+
+Restore Madden 24 Button: Use this if you're stuck in offline mode or want to revert to the original EAAC.exe.
+
+Caution: Closing Madden Spark or trying to bypass the offline mode will cause Madden24.exe to close.</value>
+  </data>
+</root>

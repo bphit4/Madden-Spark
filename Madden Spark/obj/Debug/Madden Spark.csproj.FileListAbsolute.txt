@@ -1,0 +1,16 @@
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\obj\Debug\Madden Spark.csproj.AssemblyReference.cache
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\obj\Debug\Madden Spark.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\obj\Debug\Madden_Spark.Form1.resources
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\obj\Debug\Madden_Spark.Properties.Resources.resources
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\obj\Debug\Madden Spark.csproj.GenerateResource.cache
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\obj\Debug\Madden Spark.csproj.CoreCompileInputs.cache
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\obj\Debug\Madden Spark.exe
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\obj\Debug\Madden Spark.pdb
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\bin\Debug\Resources\EAAntiCheat.GameServiceLauncher.exe
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\bin\Debug\Resources\MaddenSpark.exe
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\bin\Debug\Resources\bg_dark.png
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\bin\Debug\Madden Spark.exe.config
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\bin\Debug\Madden Spark.exe
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\bin\Debug\Madden Spark.pdb
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\bin\Debug\Resources\icon.ico
+C:\Users\hhsru\Downloads\EAAC_Fake_Source\Madden_Spark\Madden Spark\bin\Debug\Resources\NCAAMinnesotaGoldenGopher.otf
